@@ -1,0 +1,16 @@
+#titulo {
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#imagem-detalhes {
+    width: 500px;
+}
+
+#detalhes {
+    padding: 80px;
+    padding-right: 80px;
+    font-size: larger;
+}
+
